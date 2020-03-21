@@ -16,3 +16,5 @@ A bot to notify you are home or in danger.
 - [ ] setup BD
   - [ ] one session per user
   - [ ] emergency contact list per user
+
+Demo at https://youtu.be/MtGG_yTC2Xc
