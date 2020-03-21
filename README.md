@@ -14,3 +14,5 @@ A bot to notify you are home or in danger.
   - [x] send current location
   - [x] warn emergency contacts with location
 - [ ] setup BD
+  - [ ] one session per user
+  - [ ] emergency contact list per user
